@@ -1,0 +1,30 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Python / Backend
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+Backend/models/
+Backend/bin/
+
+# Node / Frontend
+node_modules/
+Frontend/dist/
+Frontend/dist-ssr/

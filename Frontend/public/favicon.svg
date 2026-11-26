@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="nexa-fav-grad" x1="5" y1="6" x2="27" y2="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="55%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#0f172a" />
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" rx="7.25" stroke="url(#nexa-fav-grad)" stroke-opacity="0.35" stroke-width="1.5" />
+  <g transform="translate(4 4)">
+    <path
+      d="M19.5 7.8C19.5 5.6 16.9 5.4 15.5 7.3L13.7 9.7M10.3 14.3L8.5 16.7C7.1 18.6 4.5 18.4 4.5 16.2"
+      stroke="url(#nexa-fav-grad)"
+      stroke-opacity="0.62"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M4.5 16.2V7.8C4.5 5.6 7.1 5.4 8.5 7.3L15.5 16.7C16.9 18.6 19.5 18.4 19.5 16.2V7.8"
+      stroke="url(#nexa-fav-grad)"
+      stroke-width="2.4"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+</svg>
